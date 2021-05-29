@@ -15,19 +15,17 @@ It was the original data I got. (5 Years)
 EDA on DataFame is done for superficially making sense of trends, fluctuation trends.
 These are some of it...
 
-![bitcoin 1](https://user-images.githubusercontent.com/75474944/119855024-32b4a600-bf2f-11eb-9228-5a08c44daca2.png)
+![bitcoin 1](https://user-images.githubusercontent.com/75474944/120080705-ce811600-c0d7-11eb-9772-18870c6a1e1a.png)
 ---
-![bitcoin 02](https://user-images.githubusercontent.com/75474944/119855035-35170000-bf2f-11eb-8687-b5700bbf43eb.png)
+![bitcoin 02](https://user-images.githubusercontent.com/75474944/120080708-d2ad3380-c0d7-11eb-9ec9-22f88b6d575b.png)
 ---
-![bitcoin 2](https://user-images.githubusercontent.com/75474944/119855044-36482d00-bf2f-11eb-9d1c-33b4640a2a55.png)
+![bitcoin 2](https://user-images.githubusercontent.com/75474944/120080710-d3de6080-c0d7-11eb-9b2d-5168d98b4759.png)
 ---
-![bitcoin 3](https://user-images.githubusercontent.com/75474944/119855047-37795a00-bf2f-11eb-922e-62bc5a723a8a.png)
+![bitcoin 3](https://user-images.githubusercontent.com/75474944/120080713-d5a82400-c0d7-11eb-9840-133fad853ef9.png)
 ---
-![bitcoin 4](https://user-images.githubusercontent.com/75474944/119855049-3811f080-bf2f-11eb-9afe-15715bc98b2f.png)
----
-![bitcoin 5](https://user-images.githubusercontent.com/75474944/119855054-39431d80-bf2f-11eb-954d-8db6847af4af.png)
+![bitcoin 4](https://user-images.githubusercontent.com/75474944/120080718-d771e780-c0d7-11eb-965b-ce9fe9c96855.png)
 ---
 
 # Time Series Forecasting in Facebook Prophet
-![bitcoin fbp 1](https://user-images.githubusercontent.com/75474944/119855207-58da4600-bf2f-11eb-8e8b-3128645258af.png)
-![bitcoin fbp 2](https://user-images.githubusercontent.com/75474944/119855217-5972dc80-bf2f-11eb-8fd0-139570bf2b6e.png)
+![bitcoin fbp 1](https://user-images.githubusercontent.com/75474944/120080678-b8735580-c0d7-11eb-9a41-34002968bce6.png)
+![bitcoin fbp 2](https://user-images.githubusercontent.com/75474944/120080694-bf9a6380-c0d7-11eb-9ff0-0e3f90c87e75.png)
