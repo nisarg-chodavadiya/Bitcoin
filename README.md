@@ -29,3 +29,6 @@ These are some of it...
 # Time Series Forecasting in Facebook Prophet
 ![bitcoin fbp 1](https://user-images.githubusercontent.com/75474944/120080678-b8735580-c0d7-11eb-9a41-34002968bce6.png)
 ![bitcoin fbp 2](https://user-images.githubusercontent.com/75474944/120080694-bf9a6380-c0d7-11eb-9ff0-0e3f90c87e75.png)
+
+# Time Series Forecasting (RNN-LSTM)
+![image](https://user-images.githubusercontent.com/75474944/125106220-062ea500-e0fd-11eb-9662-ecaf1c6d379b.png)
